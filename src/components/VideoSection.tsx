@@ -25,7 +25,7 @@ const VideoSection = () => {
         <div className="relative max-w-4xl mx-auto">
           <div className="relative aspect-video rounded-3xl overflow-hidden shadow-2xl bg-black">
             <iframe
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://youtu.be/TXNYAiP1uJw"
               title="Video Promocional - Sweet Dreams Cupcakes"
               className="w-full h-full"
               frameBorder="0"
